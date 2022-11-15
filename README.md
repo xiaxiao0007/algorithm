@@ -1,0 +1,2 @@
+# algorithm
+daily algorithm detail 
